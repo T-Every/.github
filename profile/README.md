@@ -6,7 +6,7 @@
 
 Founding team:
 
-💡 Leonardo Moreno: the creator of the idea.
-💼 Gizeli Simionatto: the partner who does it all
-👨🏼‍💻 Vitor Marcante: the dark developer guy
+💡 Leonardo Moreno: the creator of the idea. <br />
+💼 Gizeli Simionatto: the partner who does it all <br />
+👨🏼‍💻 Vitor Marcante: the dark developer guy <br />
 👨🏻‍💻 Guilherme Datilio: the good vibes developer guy
