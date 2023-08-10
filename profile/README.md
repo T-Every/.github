@@ -1,4 +1,4 @@
-## Hi there 👋 We are T-Every 💚
+## Hi there 👋 We are tevery 💚
 
 👁️ We are a startup developing an amazing social network! You will know the news soon!
 
