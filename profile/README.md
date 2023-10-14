@@ -8,5 +8,4 @@
 
 💡 Leonardo Moreno<br />
 💼 Gizeli Simionatto<br />
-👨🏼‍💻 Vitor Marcante<br />
 👨🏻‍💻 Guilherme Datilio
